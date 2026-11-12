@@ -1,7 +1,7 @@
-Student Name(s) and Registration Number(s): CB.SC.U4CSE24520, 
-                                            CB.SC.U4CSE2436, 
-                                            CB.SC.U4CSE24509, 
-                                            CB.SC.U4CSE24533 
+Student Name(s) and Registration Number(s): KarthikkhaShree-CB.SC.U4CSE24520, 
+                                            Pradhakshina-CB.SC.U4CSE2436, 
+                                            Nishitha-CB.SC.U4CSE24509, 
+                                            Niya Sreejith-CB.SC.U4CSE24533 
 
 
 Mentor: Dr. A. Baskar
